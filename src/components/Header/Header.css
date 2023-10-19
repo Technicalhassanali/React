@@ -1,0 +1,17 @@
+nav{
+    background-color: aliceblue;
+    padding:1rem;
+    margin-bottom: 2rem;
+}
+nav>ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+nav ul li a{
+    font-size:1.9rem;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color:red;
+}

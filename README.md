@@ -21,8 +21,8 @@ This Package is used show the topbar on navbar line loader
 ```
 
     
-### [React Virtualization](https://www.npmjs.com/package/react-virtualized)
-React components for efficiently rendering large lists and tabular data. 
+### React Virtualization 
+React components for efficiently rendering large lists and tabular data.  [Documentation Page](https://www.npmjs.com/package/react-virtualized)
 
 ```bash
   npm i react-virtualized

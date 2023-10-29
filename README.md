@@ -22,11 +22,17 @@ This Package is used show the topbar on navbar line loader
 
     
 ### React Virtualization 
-React components for efficiently rendering large lists and tabular data.  [Documentation Page](https://www.npmjs.com/package/react-virtualized)
+1. React components for efficiently rendering large lists and tabular data.  [Documentation Page](https://www.npmjs.com/package/react-virtualized)
 
 ```bash
   npm i react-virtualized
 ```
+2. Another simple Virtualization package is react-window that also used for Virtualization.
+
+```bash
+  npm i react-window
+```
+3. Intersection Observer API is also used for this purpose and scrolling animation,calling the events etc.
 
 ### mysql
 This Package is used for building api in react &amp; and nextjs
@@ -79,4 +85,3 @@ async function fetchData() {
 }
 
 ```
-

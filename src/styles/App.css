@@ -229,14 +229,16 @@ select{
   border: none;
   cursor: pointer;
   padding: 1rem 0;
-    font-size: 1.5rem;
+    font-size: 2rem;
     width: 110%;
     max-width: 100%;
     text-overflow: ellipsis;
 }
 select,select>option{
   padding: 1rem 0;
-  font-size:0.8rem;
+  font-size:1.4rem;
+  font-weight: 500;
+  background: transparent;
 }
 select:focus{
   outline: none;

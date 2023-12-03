@@ -31,7 +31,7 @@ function Navbar() {
                     {/* <img src="./vite.svg" alt="" style={{width:"20px"}}/> */}
                     </div>
                 <div className='circle'>
-                    <img src="https://hassanali.pk/assets/profiles-d07229f6.png" alt="" style={{width:"25px"}}/>
+                    <img src="https://hassanali.pk/images/profile/profile.png" alt="" style={{width:"25px"}}/>
                     </div>
             </div>
         </nav>
